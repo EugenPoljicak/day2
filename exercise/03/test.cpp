@@ -23,10 +23,8 @@ public:
 	}
 	TEST_METHOD(points_sorted_by_first_coordinate_then_second)
 	{
-		/*
 		Assert::IsTrue(point(1, 2) < point(1, 3));
 		Assert::IsTrue(point(1, 2) < point(2, 2));
 		Assert::IsFalse(point(1, 2) < point(1, 2));
-		*/
 	}
 };
