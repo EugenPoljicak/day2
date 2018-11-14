@@ -8,3 +8,7 @@ Napišite klasu `color` da prođu svi testovi.
 
 Napišite klasu `array` da prođu svi testovi.
 
+### exercise 03 - operatori
+
+Napišite klasu `point` da prođu svi testovi.
+
