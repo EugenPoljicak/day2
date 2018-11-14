@@ -66,7 +66,7 @@ namespace color_test
 			Assert::AreEqual(a, b);
 			Assert::AreEqual(a, c);
 		}
-
+    /*
 		TEST_METHOD(test_conversion_colorref)
 		{
 			Assert::AreEqual(RGB(255,   0,   0), color( 1, 0, 0 ).get_color_ref());
@@ -84,6 +84,6 @@ namespace color_test
 			Assert::AreEqual(0.0722, color( 0, 0, 1 ).get_luminance());
 			Assert::AreEqual(    1., color( 1, 1, 1 ).get_luminance());
 		}
-
+    */
 	};
 }
